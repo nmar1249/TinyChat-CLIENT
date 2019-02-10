@@ -1,0 +1,14 @@
+E:\Documents\GitHub\TinyChat_Client\TinyChat_Client\bin\Debug\TinyChat_Client.exe.config
+E:\Documents\GitHub\TinyChat_Client\TinyChat_Client\bin\Debug\TinyChat_Client.exe
+E:\Documents\GitHub\TinyChat_Client\TinyChat_Client\bin\Debug\TinyChat_Client.pdb
+E:\Documents\GitHub\TinyChat_Client\TinyChat_Client\obj\Debug\TinyChat_Client.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\TinyChat_Client\TinyChat_Client\obj\Debug\TinyChat_Client.FormMain.resources
+E:\Documents\GitHub\TinyChat_Client\TinyChat_Client\obj\Debug\TinyChat_Client.Properties.Resources.resources
+E:\Documents\GitHub\TinyChat_Client\TinyChat_Client\obj\Debug\TinyChat_Client.csproj.GenerateResource.Cache
+E:\Documents\GitHub\TinyChat_Client\TinyChat_Client\obj\Debug\TinyChat_Client.exe
+E:\Documents\GitHub\TinyChat_Client\TinyChat_Client\obj\Debug\TinyChat_Client.pdb
+E:\Documents\GitHub\TinyChat_Client\TinyChat_Client\obj\Debug\TinyChat_Client.LoginScreen.resources
+E:\Documents\GitHub\TinyChat_Client\TinyChat_Client\obj\Debug\TinyChat_Client.PrivateChatScreen.resources
+E:\Documents\GitHub\TinyChat_Client\TinyChat-CLIENT\TinyChat_Client\bin\Debug\TinyChat_Client.exe.config
+E:\Documents\GitHub\TinyChat_Client\TinyChat-CLIENT\TinyChat_Client\obj\Debug\TinyChat_Client.exe
+E:\Documents\GitHub\TinyChat_Client\TinyChat-CLIENT\TinyChat_Client\obj\Debug\TinyChat_Client.pdb
