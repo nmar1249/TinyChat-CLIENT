@@ -20,7 +20,7 @@ namespace TinyChat_Client
         {
             InitializeComponent();
             chatList = new List<PrivateChatScreen>();
-            client = new CommandClient(IPAddress.Parse("127.0.0.1"), 8000, "None");
+            client = new CommandClient(IPAddress.Parse("0.0.0.0"), 8000, "None");
         }
 
         protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
@@ -89,7 +89,7 @@ namespace TinyChat_Client
 
         private void AddToList(string ip, string name)
         {
-            ListViewItem newItem = listView_Users.Items.Add(ip);
+            ListViewItem newItem = listView_Users.Items.Add(name);
             newItem.ImageKey = "Smiley.png";
             newItem.SubItems.Add(name);
         }
